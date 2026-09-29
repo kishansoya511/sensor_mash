@@ -1,0 +1,74 @@
+===== STATS =====
+Produced : 192
+Consumed : 166
+Dropped  : full=0 oversize=26 crc=0
+
+===== STATS =====
+Produced : 386
+Consumed : 329
+Dropped  : full=0 oversize=57 crc=0
+
+===== STATS =====
+Produced : 578
+Consumed : 491
+Dropped  : full=0 oversize=87 crc=0
+
+===== STATS =====
+Produced : 770
+Consumed : 654
+Dropped  : full=0 oversize=116 crc=0
+
+===== STATS =====
+Produced : 963
+Consumed : 817
+Dropped  : full=0 oversize=146 crc=0
+
+===== STATS =====
+Produced : 1155
+Consumed : 989
+Dropped  : full=0 oversize=166 crc=0
+
+===== STATS =====
+Produced : 1348
+Consumed : 1161
+Dropped  : full=0 oversize=187 crc=0
+
+===== STATS =====
+Produced : 1541
+Consumed : 1327
+Dropped  : full=0 oversize=214 crc=0
+
+===== STATS =====
+Produced : 1733
+Consumed : 1495
+Dropped  : full=0 oversize=238 crc=0
+
+===== STATS =====
+Produced : 1925
+Consumed : 1646
+Dropped  : full=0 oversize=279 crc=0
+
+===== STATS =====
+Produced : 2116
+Consumed : 1806
+Dropped  : full=0 oversize=310 crc=0
+
+===== STATS =====
+Produced : 2308
+Consumed : 1969
+Dropped  : full=0 oversize=339 crc=0
+
+===== STATS =====
+Produced : 2500
+Consumed : 2134
+Dropped  : full=0 oversize=366 crc=0
+
+===== STATS =====
+Produced : 2691
+Consumed : 2292
+Dropped  : full=0 oversize=399 crc=0
+
+===== STATS =====
+Produced : 2881
+Consumed : 2451
+Dropped  : full=0 oversize=430 crc=0
